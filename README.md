@@ -8,7 +8,7 @@ Interested in data structures & algorithms, problem solving, and building practi
 -  Learning system design and scalable architectures  
 -  Exploring real-time systems and graph algorithms  
 
-## 🛠 Tech Stack
+##  Tech Stack
 **Languages:** C++, C, Python, SQL  
 **Frameworks:** Flask  
 **Tools:** Git, GitHub, Linux, MySQL, SQLite  
