@@ -4,7 +4,7 @@ Computer Science student at Thapar Institute of Engineering and Technology.
 Interested in data structures & algorithms, problem solving, and building practical applications.
 
 ##  What I'm doing
--  Building backend-focused projects  
+- Building practical projects with a focus on problem solving
 -  Learning system design and scalable architectures  
 -  Exploring real-time systems and graph algorithms  
 
